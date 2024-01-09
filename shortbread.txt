@@ -3,4 +3,9 @@ Ingredients
  - sugar
  - flour
 
+Instructions:
+ - mix butter and sugar
+ - add flour and mix
+ - bake at 450F for 30 minutes
+
 
