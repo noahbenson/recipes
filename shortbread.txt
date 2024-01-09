@@ -3,4 +3,8 @@ Ingredients
  - sugar
  - flour
 
+Instructions:
+ - mix everything
+ - bake
+
 
