@@ -1,0 +1,13 @@
+Ingredients:
+ - whiskey
+ - amaretto
+ - lemon juice
+ - blue agave syrup
+ - cherries
+
+Directions:
+ - fill cocktail shaker with ice
+ - add all liquid ingredients
+ - shake
+ - strain over a big ice cube
+ - add cherry as garnish

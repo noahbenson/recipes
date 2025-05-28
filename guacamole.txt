@@ -5,6 +5,7 @@ Ingredients:
  - lime
  - salt
  - tomatoes
+ - garlic
 
 Instructions:
  1. Dice onions
