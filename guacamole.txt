@@ -6,5 +6,6 @@ Ingredients:
  - salt
 
 Instructions:
- 1. Mix together
-
+ 1. Dice onions
+ 2. Chop cilantro
+ 3. Mix everything together
