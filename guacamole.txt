@@ -4,6 +4,7 @@ Ingredients:
  - cilantro
  - lime
  - salt
+ - garlic
 
 Instructions:
  1. Dice onions
