@@ -1,0 +1,10 @@
+Ingredients:
+- lettuce
+- cheese
+- dressing
+- croutons
+
+Instructions: 
+1. Chop lettuce
+2. Grate cheese
+3. Mix ingredients
